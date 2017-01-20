@@ -3,8 +3,8 @@ title: BananaChinese
 subtitle: Survival Guide
 email: youremailaddress@gmail.com
 description: Survival for chinese descendants who don't know their own tradition.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://http://www.bananachinese.com/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://http://www.bananachinese.com" # the base hostname & protocol for your site
 author:
 street_address:
 city:
