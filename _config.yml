@@ -1,17 +1,17 @@
 # Site settings
-title: Forty
-subtitle: by HTML5 UP
+title: BananaChinese
+subtitle: Survival Guide
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+description: Survival for chinese descendants who don't know their own tradition.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://http://www.bananachinese.com/" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
